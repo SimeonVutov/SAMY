@@ -1,0 +1,8 @@
+/backup/
+/cache/
+/outputs/
+/data/raw/
+*.autosave
+__pycache__/
+*.py[cod]
+.venv/
