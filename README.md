@@ -1,6 +1,6 @@
 # SAMY
 
-A mixed-use building at Schiestraat 11, Rotterdam (between the Schieblock and the railway north of Rotterdam Centraal), designed for TU Delft's Computational Design Studio (BK7956, minor Spatial Computing for Sustainable Development).
+A mixed-use building at Schiestraat 11, Rotterdam (between the Schieblock and the railway north of Rotterdam Centraal), designed for TU Delft's Computational Design Studio (BK7956, minor Spatial Computing).
 
 ## The project
 
