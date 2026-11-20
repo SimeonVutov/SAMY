@@ -1,8 +1,19 @@
-/backup/
-/cache/
-/outputs/
-/data/raw/
+# Houdini backups, autosaves and caches
+backup/
+cache/
 *.autosave
-__pycache__/
-*.py[cod]
+
+# 3D BAG tiles: download them yourself (see README)
+/data/context/3dbag/
+
+# Python environment (rebuild with `uv sync`)
 .venv/
+__pycache__/
+
+# Personal generator scripts
+/scripts/
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
