@@ -3,8 +3,6 @@ backup/
 cache/
 *.autosave
 
-# 3D BAG tiles: download them yourself (see README)
-/data/context/3dbag/
 
 # Python environment (rebuild with `uv sync`)
 .venv/
